@@ -1,1 +1,1 @@
-# arkanum
+# main repo for practice projects
