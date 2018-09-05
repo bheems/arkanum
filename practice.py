@@ -2,7 +2,10 @@ import pandas as pd
 import json
 import collections
 
-#################################
+
+##################################################################
+#JSON memory storage - search, add, and delete
+##################################################################
 def main ():
 
     #d = {"location":{"state":"WA"},"active":True}
@@ -57,8 +60,6 @@ def main ():
 
                 #if flat_query[key] == flat_df[key]:
                     #pass
-
-
 
 
                 #for key in flat_df:
