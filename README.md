@@ -1,1 +1,1 @@
-# main repo for practice projects
+# Repo for practice projects/coding challenges
