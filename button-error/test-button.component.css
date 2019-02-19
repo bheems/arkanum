@@ -1,0 +1,14 @@
+.test-button-cmp {
+    padding: 8px 20px;
+    border: none;
+    outline: none;
+    background: #8a8;
+    color: #efe;
+    box-shadow: 0 0 5px #ccc;
+    transition: background 500ms ease-out;
+    cursor: pointer;
+}
+
+.test-button-cmp:hover {
+    background: #585;
+}
